@@ -58,6 +58,9 @@ PMM-Prompt-Library/
 └── sales-enablement/
     ├── competitive-battlecard.md
     └── show-the-shift-pitch-deck-brief.md
+├── pricing/
+│   ├── pricing-architecture-and-tev-analysis.md
+│   └── pricing-model-transition-strategy.md
  
 How to Use
 
